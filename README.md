@@ -20,7 +20,15 @@
 
    nmap -A -sV -oN nmapscan.txt 192.168.1.41
    
+   ![изображение](https://github.com/user-attachments/assets/42dab8ff-6ff5-439b-b63f-e793265275e2)
+   
+
    nmap -A -sV -oN nmapscanvulners.txt --script vulners 192.168.1.41
+
+   ![изображение](https://github.com/user-attachments/assets/7f514cd4-36f8-4832-884e-709bce07b1a2)
+
+   
+   
 3. 
 
 4. Сканер уязвимостей Сканер-ВС 6
