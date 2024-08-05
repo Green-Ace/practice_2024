@@ -1,4 +1,4 @@
-![изображение](https://github.com/user-attachments/assets/f67c3e6c-deba-44a3-a501-a0eeb1c72baa)# test
+# test
 практика
 
 Подготовка
