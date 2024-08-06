@@ -26,7 +26,7 @@
    
    ![изображение](https://github.com/user-attachments/assets/42dab8ff-6ff5-439b-b63f-e793265275e2)
 
-   
+   nmap узнал открытые порты и версию ОС
    
 3. Используем nmap в сочетании со скриптом vulners для проверки на уязвимости
    nmap -A -sV -oN nmapscanvulners.txt --script vulners 192.168.1.41
