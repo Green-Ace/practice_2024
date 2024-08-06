@@ -96,7 +96,9 @@ CVE-2023-44487
 
 Часть 3. Сканирование виртуальной машины на windows10 с включенным файрволом tinywall
 
-   ip adress
+1.
+
+  ip adress
    
    ![изображение](https://github.com/user-attachments/assets/9ad49f83-1b5d-42a5-8cdc-bd8f31738d90)
 
@@ -106,21 +108,21 @@ CVE-2023-44487
    ![изображение](https://github.com/user-attachments/assets/4d040d1e-3f7a-4e5f-aec1-b60803307a98)
 
 
+2.
 
    nmap -A -sV 192.168.1.41 
-
-   ![изображение](https://github.com/user-attachments/assets/bdce483d-c427-4dbe-816f-1a61e81abfe8)
 
 
    ![изображение](https://github.com/user-attachments/assets/528028f9-469a-4ea0-aa27-5f642ebc2841)
 
+3. 
 
-   nmap -A -sV --script vulners 192.168.1.41
+    nmap -A -sV --script vulners 192.168.1.41
 
    
    ![изображение](https://github.com/user-attachments/assets/1b76bff0-8a5f-4808-b245-e2bc478ebe76)
 
-
+4.
 
    Сканер-ВС 6
    
