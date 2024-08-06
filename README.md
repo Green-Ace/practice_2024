@@ -24,6 +24,7 @@
    Обнаружили вируальную машину
    
 3. Используем nmap для обнаружения открытых портов, версии ОС
+ 
    nmap -A -sV -oN nmapscan.txt 192.168.1.41
    
    ![изображение](https://github.com/user-attachments/assets/42dab8ff-6ff5-439b-b63f-e793265275e2)
@@ -31,6 +32,7 @@
    nmap узнал открытые порты и версию ОС
    
 4. Используем nmap в сочетании со скриптом vulners для проверки на уязвимости
+ 
    nmap -A -sV -oN nmapscanvulners.txt --script vulners 192.168.1.41
 
    ![изображение](https://github.com/user-attachments/assets/7f514cd4-36f8-4832-884e-709bce07b1a2)
@@ -39,10 +41,13 @@
     
 
 5. Сканер уязвимостей Сканер-ВС 6
+ 
    Сканирование портов
+   
   ![изображение](https://github.com/user-attachments/assets/71c2beb0-9cf2-4431-88f5-f473d209cf0c)
 
   Сканирование на уязвимости
+  
   ![изображение](https://github.com/user-attachments/assets/5f132123-38f9-40bb-8647-a865bb7fb13c)
 
   ![изображение](https://github.com/user-attachments/assets/ea2488b0-5d99-4074-ac01-aa29355b1cca)
@@ -55,7 +60,7 @@ CVE-2023-44487
 Эксплуатация:
 Уязвимость позволяет удаленному злоумышленнику вызвать отказ в обслуживании.
 
-5. Сканер уязвимостей Nessus
+6. Сканер уязвимостей Nessus
 ![изображение](https://github.com/user-attachments/assets/6c7f28a7-65cc-425a-8c95-f40f39cff102)
 
 ![изображение](https://github.com/user-attachments/assets/58e6ae1d-7c76-43cd-af74-389d3fe38cf7)
