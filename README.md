@@ -50,8 +50,10 @@
   
   ![изображение](https://github.com/user-attachments/assets/5f132123-38f9-40bb-8647-a865bb7fb13c)
 
-  ![изображение](https://github.com/user-attachments/assets/ea2488b0-5d99-4074-ac01-aa29355b1cca)
+ 
   ![изображение](https://github.com/user-attachments/assets/385ffec2-aee3-4acd-b3be-cdf80c07835d)
+
+  ![изображение](https://github.com/user-attachments/assets/ea2488b0-5d99-4074-ac01-aa29355b1cca)
 
 Уязвимость в протоколе HTTP/2
 CVE-2023-44487
