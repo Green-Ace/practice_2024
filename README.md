@@ -115,23 +115,26 @@ CVE-2023-44487
 
    ![изображение](https://github.com/user-attachments/assets/528028f9-469a-4ea0-aa27-5f642ebc2841)
 
-3. 
+   nmap не обнаружил открытые порты
+
+4. 
 
     nmap -A -sV --script vulners 192.168.1.41
 
    
    ![изображение](https://github.com/user-attachments/assets/1b76bff0-8a5f-4808-b245-e2bc478ebe76)
 
-4.
+
+6.
 
    Сканер-ВС 6
    
    ![изображение](https://github.com/user-attachments/assets/c68dbe13-1e2b-4e92-acac-52d9ef2b44b3)
 
-   не обнаружил открытых портов
+   не получил никаких данных, сканирование на уязвимости невозможно
 
    
-5.
+7.
    
    Сканер Nessus
 
