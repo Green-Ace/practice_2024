@@ -91,7 +91,31 @@ CVE-2023-44487
 
 
 
-Часть 2. Установка и настройка файрвола tinywall
+Часть 2. Установка и настройка файрвола Tinywall
+
+Tinywall автоматически переводит все порты в режим невидимки для того, чтобы скрыть их от внешних атак
+Имеет 5 режимов работы: обычная защита, разрешить исходящие соединения, блокировать все, отключить фаервол и режим обучения
+Тестирование будем проводить в режиме обычная защита
+
+![image](https://github.com/user-attachments/assets/9c842f81-b5f2-47b3-94b3-2dead95edc04)
+
+
+![image](https://github.com/user-attachments/assets/cf8e060f-d32d-4385-89d5-c4ffe2471b9a)
+
+
+![image](https://github.com/user-attachments/assets/5a4b3e7f-360e-4f57-a162-febfa358b453)
+
+
+![image](https://github.com/user-attachments/assets/5ffe741f-fba6-4654-8f93-aad551e285e7)
+
+![image](https://github.com/user-attachments/assets/f3934789-c65f-4fe3-8af6-a4d23507fc9f)
+
+Проверим, действительно ли Tinywall ограничивает доступ в интернет приложениям, не находящимся в белом списке
+Воспользуемся небольшой программой 2ip Firewall Tester
+
+![image](https://github.com/user-attachments/assets/3e12ae49-d567-461a-927f-249429a033e8)
+
+Tinywall проходит тест
 
 
 Часть 3. Сканирование виртуальной машины на windows10 с включенным файрволом tinywall
