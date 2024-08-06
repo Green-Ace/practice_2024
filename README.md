@@ -90,7 +90,46 @@ CVE-2023-44487
 Защитите свою цель с помощью IP-фильтра.
 
 
+
 Часть 2. Установка и настройка файрвола tinywall
 
 
+Часть 3. Сканирование виртуальной машины на windows10 с включенным файрволом tinywall
 
+   ip adress
+   
+   ![изображение](https://github.com/user-attachments/assets/9ad49f83-1b5d-42a5-8cdc-bd8f31738d90)
+
+
+   netdiscover -r 192.168.1.0/24 
+
+   ![изображение](https://github.com/user-attachments/assets/4d040d1e-3f7a-4e5f-aec1-b60803307a98)
+
+
+
+   nmap -A -sV 192.168.1.41 
+
+   ![изображение](https://github.com/user-attachments/assets/bdce483d-c427-4dbe-816f-1a61e81abfe8)
+
+
+   ![изображение](https://github.com/user-attachments/assets/528028f9-469a-4ea0-aa27-5f642ebc2841)
+
+
+   nmap -A -sV --script vulners 192.168.1.41
+
+   
+   ![изображение](https://github.com/user-attachments/assets/1b76bff0-8a5f-4808-b245-e2bc478ebe76)
+
+
+
+   Сканер-ВС 6
+   
+   ![изображение](https://github.com/user-attachments/assets/c68dbe13-1e2b-4e92-acac-52d9ef2b44b3)
+
+   не обнаружил открытых портов
+
+   
+
+   
+
+   
