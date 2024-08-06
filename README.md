@@ -97,10 +97,7 @@ Tinywall автоматически переводит все порты в ре
 Имеет 5 режимов работы: обычная защита, разрешить исходящие соединения, блокировать все, отключить фаервол и режим обучения
 Тестирование будем проводить в режиме обычная защита
 
-![image](https://github.com/user-attachments/assets/9c842f81-b5f2-47b3-94b3-2dead95edc04)
-
-
-![image](https://github.com/user-attachments/assets/cf8e060f-d32d-4385-89d5-c4ffe2471b9a)
+![image](https://github.com/user-attachments/assets/c70d91fe-19cd-4665-8d70-bf974b291f9e)
 
 
 ![image](https://github.com/user-attachments/assets/5a4b3e7f-360e-4f57-a162-febfa358b453)
@@ -113,7 +110,7 @@ Tinywall автоматически переводит все порты в ре
 Проверим, действительно ли Tinywall ограничивает доступ в интернет приложениям, не находящимся в белом списке
 Воспользуемся небольшой программой 2ip Firewall Tester
 
-![image](https://github.com/user-attachments/assets/3e12ae49-d567-461a-927f-249429a033e8)
+![image](https://github.com/user-attachments/assets/23795a2e-95bf-4822-b8bb-ccdb741d547b)
 
 Tinywall проходит тест
 
