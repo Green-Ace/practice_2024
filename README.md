@@ -14,21 +14,23 @@
 1. Сканируем локальную сеть
  
    ip adress
+   
    ![изображение](https://github.com/user-attachments/assets/b4efcfd6-c678-4af1-aa1b-3e4ee576b78e)
 
    netdiscover -r 192.168.1.0/24
+   
    ![изображение](https://github.com/user-attachments/assets/2e5e2e9d-d0e8-4e04-8334-2e3382266336)
 
    Обнаружили вируальную машину
    
-2. Используем nmap для обнаружения открытых портов, версии ОС
+3. Используем nmap для обнаружения открытых портов, версии ОС
    nmap -A -sV -oN nmapscan.txt 192.168.1.41
    
    ![изображение](https://github.com/user-attachments/assets/42dab8ff-6ff5-439b-b63f-e793265275e2)
 
    nmap узнал открытые порты и версию ОС
    
-3. Используем nmap в сочетании со скриптом vulners для проверки на уязвимости
+4. Используем nmap в сочетании со скриптом vulners для проверки на уязвимости
    nmap -A -sV -oN nmapscanvulners.txt --script vulners 192.168.1.41
 
    ![изображение](https://github.com/user-attachments/assets/7f514cd4-36f8-4832-884e-709bce07b1a2)
@@ -36,7 +38,7 @@
    nmap не выявил уязвимостей :c
     
 
-4. Сканер уязвимостей Сканер-ВС 6
+5. Сканер уязвимостей Сканер-ВС 6
    Сканирование портов
   ![изображение](https://github.com/user-attachments/assets/71c2beb0-9cf2-4431-88f5-f473d209cf0c)
 
