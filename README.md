@@ -131,7 +131,12 @@ CVE-2023-44487
    не обнаружил открытых портов
 
    
-
+5.
    
+   Сканер Nessus
 
-   
+   ![изображение](https://github.com/user-attachments/assets/51d47f7b-ecba-4a0b-bba4-d95d4fdb8fbb)
+
+   ![изображение](https://github.com/user-attachments/assets/faacd5f9-cd63-40b0-a499-e87134aa0348)
+
+   не обнаружил уязвимостей
