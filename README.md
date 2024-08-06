@@ -3,6 +3,7 @@
 
 Подготовка
    Для проведения тестов подготовим виртуальную машину VirtualBox на Windows 10 [Version 10.0.19045.4291]
+   
    ![image](https://github.com/user-attachments/assets/32a5fd1d-b769-4284-8b78-272c2e5625e9)
    
    ![image](https://github.com/user-attachments/assets/5096d945-8df8-4b43-8864-996ee3b8e23e)
