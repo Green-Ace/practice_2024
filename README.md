@@ -50,6 +50,9 @@
 ![изображение](https://github.com/user-attachments/assets/7a9d4b8e-bea7-43a4-a9d9-a3751f3596cd)
 
 
+![изображение](https://github.com/user-attachments/assets/1a7aaf8e-de22-43a7-8bed-19f62f82d7cf)
+
+
  
    Сканирование портов
    
