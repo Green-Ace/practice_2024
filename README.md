@@ -47,6 +47,9 @@
 ![изображение](https://github.com/user-attachments/assets/3bfdd09f-3499-4601-853d-bb09ca6c4908)
 
 
+![изображение](https://github.com/user-attachments/assets/7a9d4b8e-bea7-43a4-a9d9-a3751f3596cd)
+
+
  
    Сканирование портов
    
