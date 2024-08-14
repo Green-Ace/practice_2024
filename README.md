@@ -53,6 +53,11 @@
 ![изображение](https://github.com/user-attachments/assets/1a7aaf8e-de22-43a7-8bed-19f62f82d7cf)
 
 
+
+![изображение](https://github.com/user-attachments/assets/9765f4b8-6496-47ca-bf01-93240ef7d50d)
+
+
+
  
    Сканирование портов
    
@@ -75,6 +80,21 @@ CVE-2023-44487
 Уязвимость позволяет удаленному злоумышленнику вызвать отказ в обслуживании.
 
 6. Сканер уязвимостей Nessus
+
+
+![изображение](https://github.com/user-attachments/assets/9058884c-efd1-49a9-93ac-67f73e386db8)
+
+
+![изображение](https://github.com/user-attachments/assets/b52e8772-0b72-45ce-8fd6-16cbb903d017)
+
+
+![изображение](https://github.com/user-attachments/assets/15762765-851f-457e-98a8-6825e3f3c5c7)
+
+
+
+
+
+
 ![изображение](https://github.com/user-attachments/assets/6c7f28a7-65cc-425a-8c95-f40f39cff102)
 
 ![изображение](https://github.com/user-attachments/assets/58e6ae1d-7c76-43cd-af74-389d3fe38cf7)
